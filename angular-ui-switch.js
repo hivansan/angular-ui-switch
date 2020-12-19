@@ -26,3 +26,5 @@ angular.module('uiSwitch', [])
     }
   }
 });
+
+module.exports = angular.module('uiSwitch').name;
